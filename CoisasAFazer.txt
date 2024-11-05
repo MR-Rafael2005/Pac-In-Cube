@@ -1,0 +1,6 @@
+-Finalizar Player (FEITO)
+-Sistema UI 
+-Sistema de Pontuação
+-Sistema de variação de mapa
+-IA Inimigos
+-Sistema de partidas
